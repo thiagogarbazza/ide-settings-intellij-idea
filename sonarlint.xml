@@ -1,0 +1,14 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarcloud.io" />
+          <token>df9ddf9cdf9ddfcfdf9cdfcedfc8dfc9df98df9cdf99df93df93df98df9edf9ddfcfdf9cdf9fdf92df9cdfcbdfccdfc8dfc9df9bdf9ddf9ddf9adf9fdf92dfc9df9ddf9ddfcedf92df9adfc9df92df9d</token>
+          <option name="name" value="https://sonarcloud.io/" />
+          <organizationKey>thiagogarbazza-github</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
