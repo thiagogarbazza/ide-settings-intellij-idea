@@ -29,11 +29,7 @@
     <option name="CLASS_NAMES_IN_JAVADOC" value="2" />
   </JavaCodeStyleSettings>
   <XML>
-    <option name="XML_ATTRIBUTE_WRAP" value="4" />
-    <option name="XML_KEEP_LINE_BREAKS" value="false" />
-    <option name="XML_KEEP_LINE_BREAKS_IN_TEXT" value="false" />
-    <option name="XML_KEEP_BLANK_LINES" value="1" />
-    <option name="XML_SPACE_INSIDE_EMPTY_TAG" value="true" />
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
   <codeStyleSettings language="HTML">
     <indentOptions>
@@ -396,6 +392,17 @@
           <rule>
             <match>
               <CONSTRUCTOR>true</CONSTRUCTOR>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <ABSTRACT>true</ABSTRACT>
+                <METHOD>true</METHOD>
+              </AND>
             </match>
             <order>BY_NAME</order>
           </rule>
