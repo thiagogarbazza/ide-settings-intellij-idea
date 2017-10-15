@@ -1,8 +1,8 @@
 <code_scheme name="Thiago Garbazza">
   <option name="OTHER_INDENT_OPTIONS">
     <value>
-      <option name="INDENT_SIZE" value="4" />
-      <option name="CONTINUATION_INDENT_SIZE" value="8" />
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="TAB_SIZE" value="2" />
       <option name="USE_TAB_CHARACTER" value="false" />
       <option name="SMART_TABS" value="false" />
@@ -23,19 +23,85 @@
   <option name="JD_ADD_BLANK_AFTER_PARM_COMMENTS" value="true" />
   <option name="JD_ADD_BLANK_AFTER_RETURN" value="true" />
   <option name="HTML_ATTRIBUTE_WRAP" value="4" />
-  <option name="HTML_TEXT_WRAP" value="0" />
+  <option name="HTML_KEEP_LINE_BREAKS" value="false" />
+  <option name="HTML_KEEP_LINE_BREAKS_IN_TEXT" value="false" />
+  <option name="HTML_KEEP_BLANK_LINES" value="1" />
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
+  <ECMA4CodeStyleSettings>
+    <option name="FORCE_SEMICOLON_STYLE" value="true" />
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+    <option name="FORCE_QUOTE_STYlE" value="true" />
+    <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
+  </ECMA4CodeStyleSettings>
+  <JSON>
+    <option name="ARRAY_WRAPPING" value="5" />
+  </JSON>
   <JavaCodeStyleSettings>
     <option name="CLASS_NAMES_IN_JAVADOC" value="2" />
   </JavaCodeStyleSettings>
+  <SqlCodeStyleSettings>
+    <option name="QUOTE_IDENTIFIER" value="1" />
+    <option name="ALIAS_CASE" value="2" />
+    <option name="QUOTED_IDENTIFIER_CASE" value="1" />
+  </SqlCodeStyleSettings>
   <XML>
     <option name="XML_ATTRIBUTE_WRAP" value="4" />
     <option name="XML_KEEP_LINE_BREAKS_IN_TEXT" value="false" />
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
+  <codeStyleSettings language="CFML">
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="CSS">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="ECMA Script Level 4">
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+    <option name="BLANK_LINES_AFTER_PACKAGE" value="1" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="GSP">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="Gherkin">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="Groovy">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="HTML">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="Haml">
+    <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
@@ -394,6 +460,42 @@
           <rule>
             <match>
               <CONSTRUCTOR>true</CONSTRUCTOR>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <ABSTRACT>true</ABSTRACT>
+                <METHOD>true</METHOD>
+                <PUBLIC>true</PUBLIC>
+              </AND>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <ABSTRACT>true</ABSTRACT>
+                <METHOD>true</METHOD>
+                <PROTECTED>true</PROTECTED>
+              </AND>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <ABSTRACT>true</ABSTRACT>
+                <METHOD>true</METHOD>
+                <PACKAGE_PRIVATE>true</PACKAGE_PRIVATE>
+              </AND>
             </match>
             <order>BY_NAME</order>
           </rule>
@@ -768,6 +870,60 @@
   <codeStyleSettings language="JSON">
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="JSP">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="JSPX">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="JavaScript">
+    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="LESS">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="SASS">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="SCSS">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="SQL">
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+  </codeStyleSettings>
+  <codeStyleSettings language="Stylus">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="TypeScript">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
