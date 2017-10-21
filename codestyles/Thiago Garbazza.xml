@@ -46,7 +46,6 @@
   </SqlCodeStyleSettings>
   <XML>
     <option name="XML_ATTRIBUTE_WRAP" value="4" />
-    <option name="XML_KEEP_LINE_BREAKS" value="false" />
     <option name="XML_KEEP_LINE_BREAKS_IN_TEXT" value="false" />
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
@@ -113,8 +112,6 @@
     <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="0" />
     <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="1" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
-    <option name="ALIGN_MULTILINE_RESOURCES" value="false" />
-    <option name="ALIGN_MULTILINE_FOR" value="false" />
     <option name="ALIGN_MULTILINE_METHOD_BRACKETS" value="true" />
     <option name="ALIGN_MULTILINE_PARENTHESIZED_EXPRESSION" value="true" />
     <option name="CALL_PARAMETERS_WRAP" value="1" />
@@ -126,10 +123,8 @@
     <option name="EXTENDS_KEYWORD_WRAP" value="1" />
     <option name="THROWS_KEYWORD_WRAP" value="1" />
     <option name="METHOD_CALL_CHAIN_WRAP" value="5" />
-    <option name="BINARY_OPERATION_WRAP" value="5" />
-    <option name="BINARY_OPERATION_SIGN_ON_NEXT_LINE" value="true" />
+    <option name="BINARY_OPERATION_WRAP" value="1" />
     <option name="TERNARY_OPERATION_WRAP" value="5" />
-    <option name="TERNARY_OPERATION_SIGNS_ON_NEXT_LINE" value="true" />
     <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
     <option name="KEEP_SIMPLE_LAMBDAS_IN_ONE_LINE" value="true" />
@@ -139,8 +134,7 @@
     <option name="ARRAY_INITIALIZER_LBRACE_ON_NEXT_LINE" value="true" />
     <option name="ARRAY_INITIALIZER_RBRACE_ON_NEXT_LINE" value="true" />
     <option name="ASSIGNMENT_WRAP" value="1" />
-    <option name="ASSERT_STATEMENT_WRAP" value="5" />
-    <option name="ASSERT_STATEMENT_COLON_ON_NEXT_LINE" value="true" />
+    <option name="ASSERT_STATEMENT_WRAP" value="1" />
     <option name="IF_BRACE_FORCE" value="3" />
     <option name="DOWHILE_BRACE_FORCE" value="3" />
     <option name="WHILE_BRACE_FORCE" value="3" />
@@ -299,7 +293,6 @@
                 <STATIC>true</STATIC>
               </AND>
             </match>
-            <order>BY_NAME</order>
           </rule>
         </section>
         <section>
