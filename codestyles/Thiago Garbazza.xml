@@ -27,7 +27,7 @@
       <package name="" withSubpackages="true" static="true" />
     </value>
   </option>
-  <option name="RIGHT_MARGIN" value="124" />
+  <option name="RIGHT_MARGIN" value="150" />
   <option name="JD_ALIGN_PARAM_COMMENTS" value="false" />
   <option name="JD_ALIGN_EXCEPTION_COMMENTS" value="false" />
   <option name="JD_ADD_BLANK_AFTER_PARM_COMMENTS" value="true" />
@@ -157,6 +157,11 @@
     <option name="PARAMETER_ANNOTATION_WRAP" value="5" />
     <option name="VARIABLE_ANNOTATION_WRAP" value="5" />
     <option name="ENUM_CONSTANTS_WRAP" value="2" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
     <arrangement>
       <tokens>
         <token id="field" name="field">
