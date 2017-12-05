@@ -27,7 +27,7 @@
       <package name="" withSubpackages="true" static="true" />
     </value>
   </option>
-  <option name="RIGHT_MARGIN" value="150" />
+  <option name="RIGHT_MARGIN" value="160" />
   <option name="JD_ALIGN_PARAM_COMMENTS" value="false" />
   <option name="JD_ALIGN_EXCEPTION_COMMENTS" value="false" />
   <option name="JD_ADD_BLANK_AFTER_PARM_COMMENTS" value="true" />
