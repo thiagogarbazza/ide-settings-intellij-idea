@@ -1,6 +1,5 @@
 <application>
   <component name="CodeInsightSettings">
-    <EXCLUDED_PACKAGE NAME="org.junit.Assert" />
-    <EXCLUDED_PACKAGE NAME="org.mockito.Mockito" />
+    <EXCLUDED_PACKAGE NAME="junit" />
   </component>
 </application>
