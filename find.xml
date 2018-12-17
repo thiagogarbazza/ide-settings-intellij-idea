@@ -1,32 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Directory '.../src/main/java/com/github/thiagogarbazza/stringreplacer [string-replacer]'" />
+    <option name="defaultScopeName" value="Directory '.../src/main/java/com/github/thiagogarbazza/stringreplacer [string-replacer]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.java</mask>
-      <mask>*.jav</mask>
-      <mask>*.ja</mask>
-      <mask>*.j</mask>
-      <mask>*.g4</mask>
-      <mask>*.g</mask>
-      <mask>*.</mask>
-      <mask>*.f</mask>
-      <mask>*.fe</mask>
-      <mask>*.fea</mask>
-      <mask>*.feat</mask>
-      <mask>*.featur</mask>
-      <mask>*.feature</mask>
-    </recentFileMasks>
+    <option name="SEARCH_SCOPE" value="Directory '.../src/main/java/com/github/thiagogarbazza/stringreplacer [string-replacer]'" />
   </component>
 </application>
