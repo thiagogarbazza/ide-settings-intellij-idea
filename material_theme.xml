@@ -1,0 +1,10 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="allowDataCollection" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="selectedTheme" value="ONE_DARK" />
+    <option name="userId" value="10f8dd44:1690540a8d8:-8000" />
+    <option name="version" value="3.5.0.1" />
+  </component>
+</application>
