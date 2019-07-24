@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="makefile" type="PLAIN_TEXT" />
+      <mapping ext="integrator" type="PLAIN_TEXT" />
       <mapping ext="expression" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
