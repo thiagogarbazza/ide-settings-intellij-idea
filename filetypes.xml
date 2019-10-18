@@ -2,6 +2,9 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="cucumber" type="PLAIN_TEXT" />
+      <mapping pattern="ACOS010-0000000002-51579-20190906094138789" type="PLAIN_TEXT" />
+      <mapping pattern="ACOS010-0000000003-51579-20190906094138789" type="PLAIN_TEXT" />
+      <mapping pattern="ACOS010-0000000001-51579-20190906094138789" type="PLAIN_TEXT" />
       <mapping ext="integrator" type="PLAIN_TEXT" />
       <mapping ext="expression" type="PLAIN_TEXT" />
       <mapping ext="expressao" type="PLAIN_TEXT" />
