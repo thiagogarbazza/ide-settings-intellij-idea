@@ -17,5 +17,6 @@
     <mask>*.xml</mask>
     <mask>*.html</mask>
     <mask>*.java</mask>
+    <mask>!*.java</mask>
   </component>
 </application>
