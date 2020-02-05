@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="ACOS010-185073070-00001-20190918172406450" type="PLAIN_TEXT" />
       <mapping pattern="ALGUM_ARQUIVO_COM_NOME_INVALIDO" type="PLAIN_TEXT" />
       <mapping pattern="ALIM211-177464977-05237-20191011171700014" type="PLAIN_TEXT" />
       <mapping pattern="cucumber" type="PLAIN_TEXT" />
