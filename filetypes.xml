@@ -11,9 +11,9 @@
       <mapping pattern="ASPB008-188383296-28418-20190829183629030" type="PLAIN_TEXT" />
       <mapping ext="tree" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
+      <mapping ext="7z" type="PLAIN_TEXT" />
       <mapping ext="version" type="PLAIN_TEXT" />
       <mapping ext="lombok" type="PLAIN_TEXT" />
-      <mapping ext="7z" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
