@@ -14,6 +14,7 @@
       <mapping ext="7z" type="PLAIN_TEXT" />
       <mapping ext="version" type="PLAIN_TEXT" />
       <mapping ext="lombok" type="PLAIN_TEXT" />
+      <mapping ext="ts" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
