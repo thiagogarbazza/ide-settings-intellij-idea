@@ -2,19 +2,19 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="AINF9010-188781697-05626-20191202193932187-INF901061348538062019" type="JSON" />
+      <mapping pattern="xml-01-example" type="PLAIN_TEXT" />
+      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern="txt-01-example" type="PLAIN_TEXT" />
       <mapping pattern="ACOS010-185073070-00001-20190918172406450" type="PLAIN_TEXT" />
-      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
-      <mapping pattern="app-version" type="PLAIN_TEXT" />
       <mapping pattern="txt-example-01" type="PLAIN_TEXT" />
-      <mapping pattern="xml-01-example" type="PLAIN_TEXT" />
       <mapping pattern="ASPB008-188383296-28418-20190829183629030" type="PLAIN_TEXT" />
-      <mapping ext="tree" type="PLAIN_TEXT" />
+      <mapping pattern="app-version" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
-      <mapping ext="7z" type="PLAIN_TEXT" />
-      <mapping ext="version" type="PLAIN_TEXT" />
       <mapping ext="lombok" type="PLAIN_TEXT" />
+      <mapping ext="version" type="PLAIN_TEXT" />
       <mapping ext="ts" type="PLAIN_TEXT" />
+      <mapping ext="tree" type="PLAIN_TEXT" />
+      <mapping ext="7z" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
