@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.feature" />
     <mask>*.css</mask>
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
@@ -12,5 +13,6 @@
     <mask>*.html</mask>
     <mask>*.java</mask>
     <mask>pom.xml</mask>
+    <mask>*.feature</mask>
   </component>
 </application>
