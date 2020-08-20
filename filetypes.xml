@@ -7,6 +7,7 @@
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern="app-version" type="PLAIN_TEXT" />
       <mapping pattern="txt-example-01" type="PLAIN_TEXT" />
+      <mapping pattern="ACNV4004-00000002-84006-20200814114516" type="PLAIN_TEXT" />
       <mapping pattern="xml-01-example" type="PLAIN_TEXT" />
       <mapping pattern="ASPB008-188383296-28418-20190829183629030" type="PLAIN_TEXT" />
       <mapping ext="tree" type="PLAIN_TEXT" />
