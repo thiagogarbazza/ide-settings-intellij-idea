@@ -4,6 +4,7 @@
       <mapping pattern="AINF9010-188781697-05626-20191202193932187-INF901061348538062019" type="JSON" />
       <mapping pattern="txt-01-example" type="PLAIN_TEXT" />
       <mapping pattern="ACOS010-185073070-00001-20190918172406450" type="PLAIN_TEXT" />
+      <mapping pattern="ACOS010-201001311-00001-20190918172406450" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern="app-version" type="PLAIN_TEXT" />
       <mapping pattern="txt-example-01" type="PLAIN_TEXT" />
