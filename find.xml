@@ -7,16 +7,16 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="pom.xml" />
     <mask>*.css</mask>
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.json</mask>
     <mask>*.ts</mask>
-    <mask>pom.xml</mask>
     <mask>*.feature</mask>
     <mask>*.html</mask>
     <mask>*.java</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
