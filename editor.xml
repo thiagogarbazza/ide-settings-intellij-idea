@@ -8,6 +8,13 @@
   <component name="EditorSettings">
     <option name="ENABLE_RENDERED_DOC" value="true" />
   </component>
+  <component name="InlayHintsSettings">
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="JAVA.chain.hints" />
+      </set>
+    </option>
+  </component>
   <component name="TodoConfiguration">
     <pattern pattern="\b(todo|fixme)\b.*" />
   </component>
