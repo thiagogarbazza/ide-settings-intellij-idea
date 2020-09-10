@@ -818,7 +818,7 @@
   </component>
   <component name="NodeRendererSettings">
     <CustomRenderers VERSION="8">
-      <Renderer ID="CompoundTypeRenderer">
+      <Renderer ID="CompoundNodeRenderer">
         <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="br.gov.bcb.crd.batch.listaesperado.ConfiguracaoDocumentoListaEsperadoDTO" />
         <Renderer ID="LabelRenderer" role="label">
@@ -831,7 +831,9 @@
   </component>
   <component name="XDebuggerSettings">
     <data-views />
-    <general />
+    <general>
+      <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
+    </general>
     <debuggers>
       <debugger id="kotlin_debugger">
         <configuration>
