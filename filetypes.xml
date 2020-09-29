@@ -11,6 +11,7 @@
       <mapping pattern="xml-01-example" type="PLAIN_TEXT" />
       <mapping pattern="txt-01-example" type="PLAIN_TEXT" />
       <mapping pattern="ASPB008-188383296-28418-20190829183629030" type="PLAIN_TEXT" />
+      <mapping pattern="teste" type="PLAIN_TEXT" />
       <mapping pattern="ACOS010-185073070-00001-20190918172406450" type="PLAIN_TEXT" />
       <mapping pattern="app-version" type="PLAIN_TEXT" />
       <mapping ext="tree" type="PLAIN_TEXT" />
