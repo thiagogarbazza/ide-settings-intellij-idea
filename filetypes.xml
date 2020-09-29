@@ -8,6 +8,7 @@
       <mapping pattern="ACOS010-201001311-00001-20190918172406450" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern="txt-example-01" type="PLAIN_TEXT" />
+      <mapping pattern="ACOS050-00000003-07464-201404111903" type="PLAIN_TEXT" />
       <mapping pattern="xml-01-example" type="PLAIN_TEXT" />
       <mapping pattern="txt-01-example" type="PLAIN_TEXT" />
       <mapping pattern="ASPB008-188383296-28418-20190829183629030" type="PLAIN_TEXT" />
