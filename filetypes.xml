@@ -17,6 +17,7 @@
       <mapping pattern="app-version" type="PLAIN_TEXT" />
       <mapping ext="tree" type="PLAIN_TEXT" />
       <mapping ext="ts" type="PLAIN_TEXT" />
+      <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="7z" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="lombok" type="PLAIN_TEXT" />
