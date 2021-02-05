@@ -6,7 +6,7 @@
     <option name="SECONDARY_FONT_FAMILY" value="Monospaced" />
   </component>
   <component name="EditorSettings">
-    <option name="ENABLE_RENDERED_DOC" value="true" />
+    <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
   </component>
   <component name="InlayHintsSettings">
     <option name="disabledHintProviderIds">
