@@ -66,6 +66,9 @@
     <option name="XML_KEEP_LINE_BREAKS_IN_TEXT" value="false" />
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
   <codeStyleSettings language="CFML">
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <indentOptions>
