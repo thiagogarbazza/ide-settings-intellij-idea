@@ -1,39 +1,29 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="AINF9010-188781697-05626-20191202193932187-INF901061348538062019" type="JSON" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="ACNV4004-00000002-84006-20200814114516" type="PLAIN_TEXT" />
+      <mapping pattern="ACOS010-201001311-00001-20190918172406450" type="PLAIN_TEXT" />
+      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
+      <mapping pattern="txt-example-01" type="PLAIN_TEXT" />
+      <mapping pattern="ACOS050-00000003-07464-201404111903" type="PLAIN_TEXT" />
+      <mapping pattern="xml-01-example" type="PLAIN_TEXT" />
+      <mapping pattern="txt-01-example" type="PLAIN_TEXT" />
+      <mapping pattern="ASPB008-188383296-28418-20190829183629030" type="PLAIN_TEXT" />
+      <mapping pattern="teste" type="PLAIN_TEXT" />
       <mapping pattern="ACOS010-185073070-00001-20190918172406450" type="PLAIN_TEXT" />
-      <mapping pattern="ALGUM_ARQUIVO_COM_NOME_INVALIDO" type="PLAIN_TEXT" />
-      <mapping pattern="ALIM211-177464977-05237-20191011171700014" type="PLAIN_TEXT" />
-      <mapping pattern="cucumber" type="PLAIN_TEXT" />
-      <mapping pattern="ACOS010-0000000002-51579-20190906094138789" type="PLAIN_TEXT" />
-      <mapping pattern="ACOS010-0000000003-51579-20190906094138789" type="PLAIN_TEXT" />
-      <mapping pattern="ACOS010-0000000001-51579-20190906094138789" type="PLAIN_TEXT" />
-      <mapping ext="integrator" type="PLAIN_TEXT" />
-      <mapping ext="expression" type="PLAIN_TEXT" />
-      <mapping ext="java___jb_old___" type="PLAIN_TEXT" />
-      <mapping ext="expressao" type="PLAIN_TEXT" />
-      <mapping ext="exec" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <mapping pattern="ACOS4060-184006888-00001-20190829183629030" type="XML" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
-      <removed_mapping pattern="makefile" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="makefile" approved="true" type="textmate" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="snakefile" approved="true" type="textmate" />
-      <mapping ext="fnc" type="DBN-PSQL" />
-      <mapping ext="pkb" type="DBN-PSQL" />
-      <mapping ext="pkg" type="DBN-PSQL" />
-      <mapping ext="pks" type="DBN-PSQL" />
-      <mapping ext="prc" type="DBN-PSQL" />
-      <mapping ext="tpb" type="DBN-PSQL" />
-      <mapping ext="tpe" type="DBN-PSQL" />
-      <mapping ext="tps" type="DBN-PSQL" />
-      <mapping ext="trg" type="DBN-PSQL" />
-      <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern="app-version" type="PLAIN_TEXT" />
+      <mapping ext="tree" type="PLAIN_TEXT" />
+      <mapping ext="ts" type="PLAIN_TEXT" />
+      <mapping ext="log" type="PLAIN_TEXT" />
+      <mapping ext="7z" type="PLAIN_TEXT" />
+      <mapping ext="bin" type="PLAIN_TEXT" />
+      <mapping ext="lombok" type="PLAIN_TEXT" />
+      <mapping ext="version" type="PLAIN_TEXT" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
 </application>

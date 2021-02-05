@@ -8,7 +8,14 @@
           <option name="name" value="https://sonarcloud.io/" />
           <organizationKey>thiagogarbazza-github</organizationKey>
         </SonarQubeServer>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://sonar2/sonar/" />
+          <token>df9fdfccdf93df99df9cdfc8dfcfdf9cdf9fdfcbdf9adf9edfcedf99df9cdfcfdf9bdf99df9cdf9edfccdfccdf93df93df9adf92df9edf9cdf9edfc8df92df9cdf92df9adf98dfc8df99df92dfcfdfce</token>
+          <option name="name" value="bacen" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
       </list>
     </option>
+    <rules />
   </component>
 </application>
