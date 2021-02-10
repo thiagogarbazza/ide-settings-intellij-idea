@@ -5,9 +5,6 @@
     <option name="USE_LIGATURES" value="true" />
     <option name="SECONDARY_FONT_FAMILY" value="Monospaced" />
   </component>
-  <component name="EditorSettings">
-    <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
-  </component>
   <component name="InlayHintsSettings">
     <option name="disabledHintProviderIds">
       <set>
