@@ -23,10 +23,6 @@
     </value>
   </option>
   <option name="RIGHT_MARGIN" value="160" />
-  <option name="HTML_ATTRIBUTE_WRAP" value="4" />
-  <option name="HTML_KEEP_LINE_BREAKS" value="false" />
-  <option name="HTML_KEEP_LINE_BREAKS_IN_TEXT" value="false" />
-  <option name="HTML_KEEP_BLANK_LINES" value="1" />
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <ECMA4CodeStyleSettings>
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
@@ -1008,13 +1004,6 @@
         </section>
       </rules>
     </arrangement>
-  </codeStyleSettings>
-  <codeStyleSettings language="kotlin">
-    <indentOptions>
-      <option name="INDENT_SIZE" value="2" />
-      <option name="CONTINUATION_INDENT_SIZE" value="4" />
-      <option name="TAB_SIZE" value="2" />
-    </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="yaml">
     <option name="KEEP_LINE_BREAKS" value="false" />
