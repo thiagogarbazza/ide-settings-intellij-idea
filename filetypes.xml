@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="AINF9010-188781697-05626-20191202193932187-INF901061348538062019" type="JSON" />
+      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="ACNV4004-00000002-84006-20200814114516" type="PLAIN_TEXT" />
