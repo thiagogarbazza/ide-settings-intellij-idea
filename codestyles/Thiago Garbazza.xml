@@ -71,7 +71,6 @@
   <XML>
     <option name="XML_ATTRIBUTE_WRAP" value="4" />
     <option name="XML_KEEP_LINE_BREAKS_IN_TEXT" value="false" />
-    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
   <editorconfig>
     <option name="ENABLED" value="false" />
@@ -112,7 +111,7 @@
   </codeStyleSettings>
   <codeStyleSettings language="Gherkin">
     <indentOptions>
-      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
